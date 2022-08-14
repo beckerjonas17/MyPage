@@ -1,4 +1,19 @@
-html, body {
-  height: 100%;
-  width: 100%;
+.center{
+  text-align:center;
 }
+#img_logo {
+  width:300px;
+  border-radius: 50px;
+  box-shadow: 10px 10px 20px red;
+}
+nav{
+  list-style-type:none;
+  text-align: center;
+}
+.item_menu{
+  display: inline-block;
+  padding: 5px 15px 5px 15px;
+  margin: 10px 30px 10px 30px;
+  border-radius: 10px;
+  border: 1px solid steelblue;
+  }
